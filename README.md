@@ -1,9 +1,3 @@
-# Wiktionary-Lemmatization
-
-Wiktionary-Lemmatization (Java-based Wiktionary Library).
-is a tool that allows users to extract specific information from the Wiktionary API. It fetches the word forms of a word
-based on the free multilingual online dictionary Wiktionary (https://www.wiktionary.org).
-Wiktionary-Lemmatization enables efficient web access to the information in the English Wiktionary language edition.
 
 ## Getting Started
 
